@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Algorithm-Axolotl
-- 👀 I’m interested in solo game development
+- 👀 I’m interested in solo game development!
 - 🎮 I post games on https://algorithm-axolotl.itch.io/ and https://gd.games/Algorithm_Axolotl, go check me out!
 - 🌱 I’m currently learning computer science! 
 - 💞️ I’m looking to collaborate on ...
